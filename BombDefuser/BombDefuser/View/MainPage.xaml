@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:BombDefuser"
+             x:Class="BombDefuser.MainPage">
+
+    <StackLayout>
+        
+        <Label Text="Bombs Defused"
+               HorizontalOptions="Center"
+               >
+        </Label>
+        <Label Text="{Binding CurrentBombsDefusedMessage}"
+               HorizontalOptions="Center"></Label>
+        <Label  Text="{Binding TotalBombsMessage}"
+                HorizontalOptions="Center"
+                >
+        </Label>
+        
+
+        <Label Text="Bomb is ticking! Pick a wire!" HorizontalOptions="Center"></Label>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Spacing="65">
+            <Button Text="1"
+                BackgroundColor="Blue"
+                VerticalOptions="CenterAndExpand"
+               HorizontalOptions="Center"
+                Command="{Binding PressBombCommand}"
+                CommandParameter="1"
+                WidthRequest ="40"
+                    HeightRequest ="150">
+        </Button>
+        
+        <Button Text="2"
+                BackgroundColor="DarkRed"
+                VerticalOptions="CenterAndExpand"
+               HorizontalOptions="Center"
+                Command="{Binding PressBombCommand}"
+                CommandParameter="2"
+                WidthRequest ="40"
+                HeightRequest ="150">
+        </Button>
+        
+        <Button Text="3"
+                BackgroundColor="Orange"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="Center"
+                Command="{Binding PressBombCommand}"
+                CommandParameter="3"
+                WidthRequest ="40"
+                HeightRequest ="150">
+        </Button>
+        </StackLayout>
+        <StackLayout>
+            <Image Source="BombWire.png" HeightRequest="250"></Image>
+            <Image x:Name="bombImg"></Image>
+        </StackLayout>
+
+        <Label Text="Created by Thrane!" 
+           VerticalOptions="Center" 
+           HorizontalOptions="Center" />
+    </StackLayout>
+</ContentPage>

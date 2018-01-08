@@ -1,0 +1,82 @@
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\BombDefuser.Android.dll
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\BombDefuser.Android.pdb
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\BombDefuser.Android.apk
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\BombDefuser.Android-Signed.apk
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\BombDefuser.dll
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\FormsViewGroup.dll
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\Xamarin.Android.Support.Design.dll
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\Xamarin.Android.Support.v4.dll
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\Xamarin.Forms.Core.dll
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\Xamarin.Forms.Platform.Android.dll
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\Xamarin.Forms.Platform.dll
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\Xamarin.Forms.Xaml.dll
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\BombDefuser.pdb
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\FormsViewGroup.pdb
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\FormsViewGroup.dll.mdb
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\Xamarin.Forms.Core.pdb
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\Xamarin.Forms.Core.xml
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\Xamarin.Forms.Platform.Android.pdb
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\Xamarin.Forms.Xaml.pdb
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\Xamarin.Forms.Xaml.xml
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\obj\Release\BombDefuser.Android.csprojResolveAssemblyReference.cache
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\obj\Release\BombDefuser.Android.csproj.CoreCompileInputs.cache
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\obj\Release\BombDefuser.Android.dll
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\obj\Release\BombDefuser.Android.pdb
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\obj\Release\android\bin\BombDefuser.Android.apk
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\obj\Release\res\drawable\icon.png
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\obj\Release\res\drawable-hdpi\icon.png
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\obj\Release\res\drawable-xhdpi\icon.png
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\obj\Release\res\drawable-xxhdpi\icon.png
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\obj\Release\res\layout\tabbar.xml
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\obj\Release\res\layout\toolbar.xml
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\obj\Release\res\values\styles.xml
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\obj\Release\R.cs.flag
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\obj\Release\uploadflags.txt
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\BombDefuser.dll.mdb
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\BombDefuser.Android.dll.mdb
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\obj\Release\android\assets\BombDefuser.Android.dll.mdb
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\obj\Release\android\assets\BombDefuser.dll.mdb
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\obj\Release\res\drawable\bombwire.png
+T:\Visual Studio 2017 Projects\BombDefuser\BombDefuser\BombDefuser.Android\bin\Release\BombDefuser.Android.dll
+bin\Release\BombDefuser.dll.mdb
+bin\Release\Mono.Android.pdb
+bin\Release\mscorlib.pdb
+bin\Release\System.Core.pdb
+bin\Release\System.pdb
+bin\Release\System.Xml.pdb
+bin\Release\System.Xml.Linq.pdb
+bin\Release\System.Net.Http.pdb
+bin\Release\System.Runtime.Serialization.pdb
+bin\Release\System.ServiceModel.Internals.pdb
+bin\Release\Mono.Security.pdb
+bin\Release\System.ComponentModel.Composition.pdb
+obj\Release\linksrc\BombDefuser.Android.dll.mdb
+obj\Release\linksrc\BombDefuser.dll.mdb
+obj\Release\linksrc\FormsViewGroup.dll.mdb
+obj\Release\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Release\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Release\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Release\linksrc\Mono.Android.pdb
+obj\Release\linksrc\mscorlib.pdb
+obj\Release\linksrc\System.Core.pdb
+obj\Release\linksrc\System.pdb
+obj\Release\linksrc\System.Xml.pdb
+obj\Release\linksrc\System.Xml.Linq.pdb
+obj\Release\linksrc\System.Net.Http.pdb
+obj\Release\linksrc\System.Runtime.Serialization.pdb
+obj\Release\linksrc\System.ServiceModel.Internals.pdb
+obj\Release\linksrc\Mono.Security.pdb
+obj\Release\linksrc\System.ComponentModel.Composition.pdb
